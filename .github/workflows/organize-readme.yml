@@ -1,0 +1,33 @@
+name: organize-repos-readme
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  org-readme:
+    name: Create README of repos within CGDS
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        # Note that we explicitly specify the head commit in the checkout Action. This is required in order to work
+        # with the pull_request event (or any other non-push event).
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Generate README
+        run: bash .github/generate_readme.sh
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.REPO_FINE_GRAIN_TOKEN }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply updated repo organization
