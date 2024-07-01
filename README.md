@@ -10,3 +10,28 @@ customizing the setup of this README and how repos are queried and listed.
 
 [![Generation Status](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
 
+## Software Development
+
+
+## DevOps
+  - [cgds-domain-home-page](https://github.com/uab-cgds-worthey/cgds-domain-home-page) - The base HTML page and to be packaged and deployed to cgds.uab.edu -  _Repo Topics_: devops
+
+## SciOps
+  - [DITTO](https://github.com/uab-cgds-worthey/DITTO) - Variant Deleteriousness prediction tool using AI -  _Repo Topics_: sciops, ditto
+  - [DITTO-API](https://github.com/uab-cgds-worthey/DITTO-API) - This is the API for serving up DITTO scores and hosting on Cloud.rc at UAB. -  _Repo Topics_: ditto, sciops
+
+### Pipelines
+  - [quac](https://github.com/uab-cgds-worthey/quac) - 🦆 Quality Control of WGS and exome samples 🦆 -  _Repo Topics_: pipeline
+
+### Support
+  - [cgds_repo_template](https://github.com/uab-cgds-worthey/cgds_repo_template) - Template repo for CGDS repos.  Visit the webpage below for usage instructions. -  _Repo Topics_: support
+  - [learnings_journal](https://github.com/uab-cgds-worthey/learnings_journal) - Tips and tricks we learn at CGDS to get stuff working -  _Repo Topics_: support
+
+## Miscellaneous
+  - [.github](https://github.com/uab-cgds-worthey/.github) - The Center for Computational Genomics and Data Science (CGDS) seeks to develop and apply tools and methods to uncover new and novel information that provide benefits for patients suffering from rare, undiagnosed, or misdiagnosed diseases, their families, and the people that care for them. -  _Repo Topics_: 
+  - [DITTO-UI](https://github.com/uab-cgds-worthey/DITTO-UI) - Easy to use web interface for biologists to look for genetic variants and understand their deleteriousness using DITTO scores. -  _Repo Topics_: streamlit-webapp, pathogenic-variants, rare-disease, bioinformatics, clinvar, ditto, genomics, precision-medicine
+  - [Public-CGDS-Repo-Discovery](https://github.com/uab-cgds-worthey/Public-CGDS-Repo-Discovery) - An organized listing of public repositories within CGDS to help with discovery of works completed by CGDS. -  _Repo Topics_: 
+  - [mixoviz](https://github.com/uab-cgds-worthey/mixoviz) - Detection and visualization of 2n/3n mixoploidy from a VCF -  _Repo Topics_: 
+  - [rosalution](https://github.com/uab-cgds-worthey/rosalution) - Rosalution assists researchers study genetic variation 🧬 in patients 🧑🏾‍🤝‍🧑🏼 by helping select candidate animal models 🐀🐁🐠🪱 to replicate the variation to further research to derive, diagnose, and provide therapies for ultra-rare diseases. Developed by the UAB Center for Computational Genomics and Data Science (CGDS). -  _Repo Topics_: 
+  - [shareops-self-hosted-runners-demo](https://github.com/uab-cgds-worthey/shareops-self-hosted-runners-demo) - Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee -  _Repo Topics_: 
+
