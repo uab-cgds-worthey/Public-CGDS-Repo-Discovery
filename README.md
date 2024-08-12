@@ -19,7 +19,9 @@ customizing the setup of this README and how repos are queried and listed.
   - [cgds-domain-home-page](https://github.com/uab-cgds-worthey/cgds-domain-home-page) - The base HTML page and to be packaged and deployed to cgds.uab.edu -  _Repo Topics_: devops
 
 ## SciOps
-
+  - [DITTO](https://github.com/uab-cgds-worthey/DITTO) - Variant Deleteriousness prediction tool using AI -  _Repo Topics_: sciops, ditto
+  - [DITTO-API](https://github.com/uab-cgds-worthey/DITTO-API) - This is the API for serving up DITTO scores and hosting on Cloud.rc at UAB. -  _Repo Topics_: ditto, sciops
+  - [DITTO-UI](https://github.com/uab-cgds-worthey/DITTO-UI) - Easy to use web interface for biologists to look for genetic variants and understand their deleteriousness using DITTO scores. -  _Repo Topics_: streamlit-webapp, pathogenic-variants, rare-disease, bioinformatics, clinvar, ditto, genomics, precision-medicine, sciops
 
 ### Pipelines
   - [quac](https://github.com/uab-cgds-worthey/quac) - 🦆 Quality Control of WGS and exome samples 🦆 -  _Repo Topics_: pipeline
