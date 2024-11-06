@@ -31,6 +31,7 @@ customizing the setup of this README and how repos are queried and listed.
   - [learnings_journal](https://github.com/uab-cgds-worthey/learnings_journal) - Tips and tricks we learn at CGDS to get stuff working -  _Repo Topics_: support
 
 ## Miscellaneous
+  - [DMEA](https://github.com/uab-cgds-worthey/DMEA) - Drug Mechanism Enrichment Analysis -  _Repo Topics_: 
   - [eslint-config-cgds](https://github.com/uab-cgds-worthey/eslint-config-cgds) - CGDS' ESLint's linting & formatting shareable config for JavsScript projects -  _Repo Topics_: 
   - [mixoviz](https://github.com/uab-cgds-worthey/mixoviz) - Detection and visualization of 2n/3n mixoploidy from a VCF -  _Repo Topics_: 
   - [rosalution](https://github.com/uab-cgds-worthey/rosalution) - Rosalution assists researchers study genetic variation 🧬 in patients 🧑🏾‍🤝‍🧑🏼 by helping select candidate animal models 🐀🐁🐠🪱 to replicate the variation to further research to derive, diagnose, and provide therapies for ultra-rare diseases. Developed by the UAB Center for Computational Genomics and Data Science (CGDS). -  _Repo Topics_: 
