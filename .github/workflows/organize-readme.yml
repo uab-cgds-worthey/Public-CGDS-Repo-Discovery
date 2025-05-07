@@ -31,3 +31,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Apply updated repo organization
+
+      - name: Keeping cron workflow alive in github
+        uses: gautamkrishnar/keepalive-workflow@v2
