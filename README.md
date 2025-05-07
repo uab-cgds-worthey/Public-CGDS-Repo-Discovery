@@ -22,6 +22,7 @@ customizing the setup of this README and how repos are queried and listed.
   - [DITTO](https://github.com/uab-cgds-worthey/DITTO) - Variant Deleteriousness prediction tool using AI -  _Repo Topics_: sciops, ditto
   - [DITTO-API](https://github.com/uab-cgds-worthey/DITTO-API) - This is the API for serving up DITTO scores and hosting on Cloud.rc at UAB. -  _Repo Topics_: ditto, sciops
   - [DITTO-UI](https://github.com/uab-cgds-worthey/DITTO-UI) - Easy to use web interface for biologists to look for genetic variants and understand their deleteriousness using DITTO scores. -  _Repo Topics_: streamlit-webapp, pathogenic-variants, rare-disease, bioinformatics, clinvar, ditto, genomics, precision-medicine, sciops
+  - [somatic-mutation-signal-identification](https://github.com/uab-cgds-worthey/somatic-mutation-signal-identification) - Mutational signal profiling from somatic variation to detect disrupted mechanisms in somatic cells (typically cancers) using https://github.com/AlexandrovLab/SigProfilerExtractor -  _Repo Topics_: genomics-analysis, sciops, somatic-mutations
 
 ### Pipelines
   - [quac](https://github.com/uab-cgds-worthey/quac) - 🦆 Quality Control of WGS and exome samples 🦆 -  _Repo Topics_: pipeline
