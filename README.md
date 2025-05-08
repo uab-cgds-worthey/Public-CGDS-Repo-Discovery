@@ -9,7 +9,7 @@ by checking out the [setup instructions](setup.md). The setup instructions also 
 customizing the setup of this README and how repos are queried and listed.
 
 ![Static Badge](https://img.shields.io/badge/Last_Updated-05%2F08%2F25-blue)
-[![Generation Status](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
+[![Generation Status](https://github.com/uab-cgds-worthey/Public-CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/Public-CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
 
 ## Software Development
 
