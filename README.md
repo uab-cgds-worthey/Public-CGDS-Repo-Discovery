@@ -8,7 +8,7 @@ for in specific. You can learn more about how this repo was setup and how it's a
 by checking out the [setup instructions](setup.md). The setup instructions also contain details on
 customizing the setup of this README and how repos are queried and listed.
 
-![Static Badge](https://img.shields.io/badge/Last_Updated-05%2F15%2F25-blue)
+![Static Badge](https://img.shields.io/badge/Last_Updated-05%2F16%2F25-blue)
 [![Generation Status](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
 
 ## Software Development
@@ -36,6 +36,7 @@ customizing the setup of this README and how repos are queried and listed.
   - [DMEA](https://github.com/uab-cgds-worthey/DMEA) - Drug Mechanism Enrichment Analysis -  _Repo Topics_: 
   - [eslint-config-cgds](https://github.com/uab-cgds-worthey/eslint-config-cgds) - CGDS' ESLint's linting & formatting shareable config for JavsScript projects -  _Repo Topics_: 
   - [mixoviz](https://github.com/uab-cgds-worthey/mixoviz) - Detection and visualization of 2n/3n mixoploidy from a VCF -  _Repo Topics_: 
+  - [muscular_dystrophy_rnaseq_vma21_manuscript](https://github.com/uab-cgds-worthey/muscular_dystrophy_rnaseq_vma21_manuscript) - Muscular Dystrophy (XMEA) Bulk RNA-Seq Analysis (DGE and Sashimi-Splicing) -  _Repo Topics_: 
   - [rosalution](https://github.com/uab-cgds-worthey/rosalution) - Rosalution assists researchers study genetic variation 🧬 in patients 🧑🏾‍🤝‍🧑🏼 by helping select candidate animal models 🐀🐁🐠🪱 to replicate the variation to further research to derive, diagnose, and provide therapies for ultra-rare diseases. Developed by the UAB Center for Computational Genomics and Data Science (CGDS). -  _Repo Topics_: 
   - [shareops-self-hosted-runners-demo](https://github.com/uab-cgds-worthey/shareops-self-hosted-runners-demo) - Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee -  _Repo Topics_: 
 
