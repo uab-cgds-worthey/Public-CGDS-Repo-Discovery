@@ -8,7 +8,7 @@ for in specific. You can learn more about how this repo was setup and how it's a
 by checking out the [setup instructions](setup.md). The setup instructions also contain details on
 customizing the setup of this README and how repos are queried and listed.
 
-![Static Badge](https://img.shields.io/badge/Last_Updated-06%2F05%2F25-blue)
+![Static Badge](https://img.shields.io/badge/Last_Updated-06%2F06%2F25-blue)
 [![Generation Status](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
 
 ## Software Development
@@ -35,6 +35,7 @@ customizing the setup of this README and how repos are queried and listed.
 ## Miscellaneous
   - [DMEA](https://github.com/uab-cgds-worthey/DMEA) - Drug Mechanism Enrichment Analysis -  _Repo Topics_: 
   - [eslint-config-cgds](https://github.com/uab-cgds-worthey/eslint-config-cgds) - CGDS' ESLint's linting & formatting shareable config for JavsScript projects -  _Repo Topics_: 
+  - [ggsashimi](https://github.com/uab-cgds-worthey/ggsashimi) - Command-line tool for the visualization of splicing events across multiple samples -  _Repo Topics_: 
   - [mixoviz](https://github.com/uab-cgds-worthey/mixoviz) - Detection and visualization of 2n/3n mixoploidy from a VCF -  _Repo Topics_: 
   - [muscular_dystrophy_rnaseq_vma21_manuscript](https://github.com/uab-cgds-worthey/muscular_dystrophy_rnaseq_vma21_manuscript) - Muscular Dystrophy (XMEA) Bulk RNA-Seq Analysis (DGE and Sashimi-Splicing) -  _Repo Topics_: 
   - [shareops-self-hosted-runners-demo](https://github.com/uab-cgds-worthey/shareops-self-hosted-runners-demo) - Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee -  _Repo Topics_: 
