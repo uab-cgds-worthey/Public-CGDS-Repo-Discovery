@@ -8,7 +8,7 @@ for in specific. You can learn more about how this repo was setup and how it's a
 by checking out the [setup instructions](setup.md). The setup instructions also contain details on
 customizing the setup of this README and how repos are queried and listed.
 
-![Static Badge](https://img.shields.io/badge/Last_Updated-08%2F05%2F25-blue)
+![Static Badge](https://img.shields.io/badge/Last_Updated-08%2F06%2F25-blue)
 [![Generation Status](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
 
 ## Software Development
