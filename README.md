@@ -8,7 +8,7 @@ for in specific. You can learn more about how this repo was setup and how it's a
 by checking out the [setup instructions](setup.md). The setup instructions also contain details on
 customizing the setup of this README and how repos are queried and listed.
 
-![Static Badge](https://img.shields.io/badge/Last_Updated-04%2F01%2F26-blue)
+![Static Badge](https://img.shields.io/badge/Last_Updated-04%2F02%2F26-blue)
 [![Generation Status](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
 
 ## Software Development
@@ -33,6 +33,7 @@ customizing the setup of this README and how repos are queried and listed.
   - [learnings_journal](https://github.com/uab-cgds-worthey/learnings_journal) - Tips and tricks we learn at CGDS to get stuff working -  _Repo Topics_: support
 
 ## Miscellaneous
+  - [CoSIA](https://github.com/uab-cgds-worthey/CoSIA) - Fork of Lasseignelab's Cross Species Investigation and Analysis : an R package that provides an alternative framework for cross-species transcriptomic comparison of non-diseased wild-type RNA sequencing gene expression data across tissues and species through visualization of variability, diversity, and specificity metrics. -  _Repo Topics_: 
   - [DMEA](https://github.com/uab-cgds-worthey/DMEA) - Drug Mechanism Enrichment Analysis -  _Repo Topics_: 
   - [eslint-config-cgds](https://github.com/uab-cgds-worthey/eslint-config-cgds) - CGDS' ESLint's linting & formatting shareable config for JavsScript projects -  _Repo Topics_: 
   - [mixoviz](https://github.com/uab-cgds-worthey/mixoviz) - Detection and visualization of 2n/3n mixoploidy from a VCF -  _Repo Topics_: 
