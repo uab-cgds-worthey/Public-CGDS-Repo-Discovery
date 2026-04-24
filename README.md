@@ -8,7 +8,7 @@ for in specific. You can learn more about how this repo was setup and how it's a
 by checking out the [setup instructions](setup.md). The setup instructions also contain details on
 customizing the setup of this README and how repos are queried and listed.
 
-![Static Badge](https://img.shields.io/badge/Last_Updated-04%2F23%2F26-blue)
+![Static Badge](https://img.shields.io/badge/Last_Updated-04%2F24%2F26-blue)
 [![Generation Status](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml/badge.svg)](https://github.com/uab-cgds-worthey/CGDS-Repo-Discovery/actions/workflows/organize-readme.yml)
 
 ## Software Development
@@ -35,6 +35,7 @@ customizing the setup of this README and how repos are queried and listed.
 ## Miscellaneous
   - [CoSIA](https://github.com/uab-cgds-worthey/CoSIA) - Fork of Lasseignelab's Cross Species Investigation and Analysis : an R package that provides an alternative framework for cross-species transcriptomic comparison of non-diseased wild-type RNA sequencing gene expression data across tissues and species through visualization of variability, diversity, and specificity metrics. -  _Repo Topics_: 
   - [DMEA](https://github.com/uab-cgds-worthey/DMEA) - Drug Mechanism Enrichment Analysis -  _Repo Topics_: 
+  - [PTC-clonal-evolution-analysis](https://github.com/uab-cgds-worthey/PTC-clonal-evolution-analysis) - Process and setup for determining clonal populations from WES data from rare pediatric thyroid cancers -  _Repo Topics_: 
   - [eslint-config-cgds](https://github.com/uab-cgds-worthey/eslint-config-cgds) - CGDS' ESLint's linting & formatting shareable config for JavsScript projects -  _Repo Topics_: 
   - [mixoviz](https://github.com/uab-cgds-worthey/mixoviz) - Detection and visualization of 2n/3n mixoploidy from a VCF -  _Repo Topics_: 
   - [muscular_dystrophy_rnaseq_vma21_manuscript](https://github.com/uab-cgds-worthey/muscular_dystrophy_rnaseq_vma21_manuscript) - Muscular Dystrophy (XMEA) Bulk RNA-Seq Analysis (DGE and Sashimi-Splicing) -  _Repo Topics_: 
